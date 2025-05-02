@@ -1,2 +1,2 @@
 # course-recommender
-a course reommender system that recommends using deep learning model
+a course reommender system combining collaborative filtering  and deep learning model
